@@ -18,7 +18,7 @@ development:
   database: Gregs_first_app_development
   pool: 5
   username: Gregs_first_app
-  password:
+  password: myPass
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
